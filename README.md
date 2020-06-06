@@ -52,4 +52,15 @@ python3 instagram.py <username> <wordlist> -m <mode>
 
 Please I learning very hardly and please give me a support if you like, but more than giving me a support , you should fix this bug soon as possible
 
+```	
+  try to contribute and my contacts are :
+       Email : yehantest@gmail.com
+       Instagram : @official.yehanwasura.lk
+       Whatsapp : +94 0762679048
+       YouTube : https://www.youtube.com/channel/UCzK8p9qKo7hygzsZtshJC_g
+       
+       Support Me Via Paypal : https://paypal.me/cyberrex599
+       Support Me Via Patreon : https://patreon.com/thelearningcrux
+ ```      
+
 ThankYou
