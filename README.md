@@ -50,11 +50,11 @@ python3 instagram.py <username> <wordlist> -m <mode>
 -   32 bots: 512 passwords at a time
 
 
-Please I learning very hardly and please give me a support if you like, but more than giving me a support , you should fix this bug soon as possible
+Give me a support if you like, 
 
 ```	
   try to contribute and my contacts are :
-       Email : yehantest@gmail.com
+       Email : yehantest@gmail.com / contact@yehanwasura.ml
        Instagram : @official.yehanwasura.lk
        Whatsapp : +94 0762679048
        YouTube : https://www.youtube.com/channel/UCzK8p9qKo7hygzsZtshJC_g
