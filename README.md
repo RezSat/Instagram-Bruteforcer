@@ -1,8 +1,6 @@
 # Instagram-Bruteforcer
-Python based instagram brute forcer , work 100% in 2020
-
-I am Yehan Wasura , just 16 years old for 2020, I found a vulnerability on Instagram and can bruteforce to instagram accounts. And this project is not to harm anyone but
-just for educational purposes only. Instagram should take a action on this.
+[This program is not actively maintained]
+Python based instagram brute forcer
 
 This program will brute force any Instagram account you send it its way. Just give it a target,
 a password list and a mode then press enter and forget about it. No need to worry about anonymity when using this program,
